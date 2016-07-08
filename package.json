@@ -1,0 +1,19 @@
+{
+  "name": "short-command",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FuriKuri/short-command.git"
+  },
+  "author": "Theo Pack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FuriKuri/short-command/issues"
+  },
+  "homepage": "https://github.com/FuriKuri/short-command#readme"
+}
