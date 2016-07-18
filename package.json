@@ -1,6 +1,6 @@
 {
-  "name": "short-command",
-  "version": "1.0.0",
+  "name": "top-cmd",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FuriKuri/short-command.git"
+    "url": "git+https://github.com/FuriKuri/top-cmd.git"
   },
   "author": "Theo Pack",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FuriKuri/short-command/issues"
+    "url": "https://github.com/FuriKuri/top-cmd/issues"
   },
-  "homepage": "https://github.com/FuriKuri/short-command#readme"
+  "homepage": "https://github.com/FuriKuri/top-cmd#readme"
 }

@@ -1,4 +1,4 @@
-# short-command
+# top-cmd
 
 ## Installation
 
