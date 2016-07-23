@@ -8,3 +8,8 @@ npm install -g top-cmd
 ```
 top-cmd
 ```
+
+Add top-cmd aliases to your zshrc, if you haven't done so yet.
+```
+echo "source ~/.top-cmd/aliases" >> ~/.zshrc
+```
