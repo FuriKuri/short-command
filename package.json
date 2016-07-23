@@ -1,6 +1,6 @@
 {
   "name": "top-cmd",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Command line tool to create aliases for the top commands in your history",
   "main": "index.js",
   "scripts": {
